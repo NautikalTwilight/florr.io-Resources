@@ -1,5 +1,5 @@
 Petal Images:
-  https://florr.io/petals/<IdNumber>_[rarityNumber].svg
+  https://florr.io/petals/<IdNumber>[_rarityNumber].svg
   // Example: https://florr.io/petals/1.svg = Basic
   // Example: https://florr.io/petals/6_5.svg = Mythic Stinger
 
